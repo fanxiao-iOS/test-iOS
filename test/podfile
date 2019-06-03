@@ -1,0 +1,9 @@
+# platform :ios, '9.0'
+
+target 'test' do
+  pod 'WeexSDK'
+  pod 'SDWebImage'
+  pod 'SocketRocket'
+  pod 'AFNetworking', '~> 3.2.1'
+
+end
